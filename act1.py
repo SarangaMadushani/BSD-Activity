@@ -7,4 +7,5 @@ for i in range(num, 10):
         print('{0}  *  {1}  =  {2}'.format(i, j, i*j))
     print('==============')
 print("Thank You")
+print("Have a nice day")
      
